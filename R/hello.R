@@ -19,3 +19,6 @@ hello <- function() {
 
 
 
+\begin{sinn}
+kein blödsinn
+\end{sinn}
